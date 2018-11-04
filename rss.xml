@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wiesław Młynarski]]></title><description><![CDATA[Developer blog]]></description><link>https://wieslaw.mlynarski.cc</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Nov 2018 20:39:28 GMT</lastBuildDate><item><title><![CDATA[Publishing your first site]]></title><description><![CDATA[TODO:]]></description><link>https://wieslaw.mlynarski.cc/deploy-personal-site/</link><guid isPermaLink="false">https://wieslaw.mlynarski.cc/deploy-personal-site/</guid><pubDate>Sun, 19 Aug 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;TODO:&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wiesław Młynarski]]></title><description><![CDATA[Developer blog]]></description><link>https://wieslaw.mlynarski.cc</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Nov 2018 20:56:10 GMT</lastBuildDate><item><title><![CDATA[Publishing a static site to github pages]]></title><description><![CDATA[Intro Publishing a personal site got very easy this days.
+There are thousands of ways of doing that.
+In this article I wanted to describe…]]></description><link>https://wieslaw.mlynarski.cc/deploy-personal-site/</link><guid isPermaLink="false">https://wieslaw.mlynarski.cc/deploy-personal-site/</guid><pubDate>Sun, 19 Aug 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Publishing a personal site got very easy this days.
+There are thousands of ways of doing that.
+In this article I wanted to describe you how this site is beeing published.&lt;/p&gt;
+&lt;p&gt;My requirements were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;zero or no cost&lt;/li&gt;
+&lt;li&gt;custom domain (mlynarski.cc)&lt;/li&gt;
+&lt;li&gt;continious&lt;/li&gt;
+&lt;li&gt;easy way of authoring articles&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Tools Services&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;gatsby&lt;/li&gt;
+&lt;li&gt;github&lt;/li&gt;
+&lt;li&gt;travis-ci&lt;/li&gt;
+&lt;li&gt;namecheap.com&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;/h1&gt;</content:encoded></item></channel></rss>
